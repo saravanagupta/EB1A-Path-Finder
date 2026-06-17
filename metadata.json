@@ -1,0 +1,10 @@
+{
+  "name": "EB1A Pathfinder",
+  "description": "An interactive legal strategy roadmap and blueprint builder for the USCIS EB-1A Extraordinary Ability visa category.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
